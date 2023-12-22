@@ -22,8 +22,8 @@ const formattedDate = computed(() => {
 <template>
   <div class="home">
     <P>
-      This website is a user-friendly platform designed to make data input and output management a breeze.<br />Specially
-      tailored for academic, research, and statistical purposes as it outputs the data in APA format.<br /><br />
+      A user-friendly platform designed to make true A/B statistics a breeze.<br />Specially tailored for academic,
+      research, and statistical purposes as it outputs the data in APA format.<br /><br />
       <b>Features:</b><br />
       <i class="g">✔</i>
       A/B (z-test) and Retention test (Bootstap t-test)<br />
