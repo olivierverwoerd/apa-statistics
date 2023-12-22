@@ -136,7 +136,7 @@ function conclusion(users_control, converted_control, users, converted) {
       return "It's Significantly worse";
     }
   } else if (pv > 1 - state.significanceLevel / 100 && powerv < 80) {
-    return "There's no difference";
+    return "There's no significant difference";
   } else if (pv > 1 - state.significanceLevel / 100 && powerv > 80) {
     return "This isn't a good test";
   }
